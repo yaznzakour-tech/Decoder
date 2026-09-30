@@ -13,7 +13,7 @@ public class Decoder {
         };
 
         // TODO: Iterate over encodedData, parse the 3 pairs of indices per element,
-        // and extract/print the decoded message!
+        // and extract/print the decoded message!   
 
     }
 }
